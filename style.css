@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgba(136, 156, 38, 0.541);
+}
+h1 {
+  color: white;
+  background-color: darkgoldenrod;
+  font-style: italic;
+}
+h3 {
+  font-style: italic;
+}
+
+button {
+  background-color: #4caf50; /* Green */
+  border-radius: 20%;
+  color: white;
+  font-style: oblique;
+  padding: 10px 24px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+}
+td {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: peru;
+  height: 10px;
+  width: 20px;
+}
+p {
+  color: black;
+  text-align: justify;
+}
